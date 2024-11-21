@@ -1,4 +1,3 @@
-Here's a comprehensive README file content for your Flask-based blockchain application. You can customize it further based on your preferences or additional features you may want to include.
 
 ```markdown
 # Flask Blockchain API
